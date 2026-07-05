@@ -116,11 +116,6 @@ Envie d'échanger sur le développement d'un bot, de parler design web ou de sui
 
 `⚡ Façonner dans l'ombre, impacter dans la lumière.`
 
-<br/>
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745cc-7d22-439b-9d70-de2d2992d19f.gif" alt="Synthwave Horizon Code" width="400px" style="border-radius: 8px;"/>
-
 </div>
 
 <g>
