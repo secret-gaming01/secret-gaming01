@@ -8,7 +8,7 @@
 
 <br/>
 
-> 🌌 **« Ce que tu façonnes dans le silence devient une force que le monde ressent avant même de comprendre d’où elle vient. »**
+🌌 **« Ce que tu façonnes dans le silence devient une force que le monde ressent avant même de comprendre d’où elle vient. »**
 
 <br/>
 
@@ -30,18 +30,17 @@ Moi c'est **secret-gaming01**. Développeur en pleine ascension, je me situe à 
 
 ## ⚡ Compétences & Stack Tech
 
-### 💻 Langages & Core
+### 💻 Langages
 * **Web Standard :** `HTML5` • `CSS3` (Stylisation avancée, transitions, keyframes) • `JavaScript` (ES6+)
-* **Backend & Logique :** `C#` *(En cours d'apprentissage intensif)*
+* **Backend & Logique :** `C#` • `LUA`
 
-### 🛠️ Environnement & Création
-* **IDE principal :** `VS Code` *(Customisé au pixel près : thème dark premium, polices ligaturées)*
+### 🛠️ Outils & IDE
+* **IDE principal :** `VS Code` *(Thème dark premium, polices ligaturées)*
 * **Contrôle de version :** `Git` • `GitHub`
-* **Montage Vidéo :** `DaVinci Resolve` *(Le standard de l'industrie pour la colorimétrie et le montage de mes créations)* • `iMovie` *(Montage rapide sur mobile)*
-* **Plateforme mobile :** `iPadOS`
+* **Montage Vidéo :** `DaVinci Resolve` *(Le standard de l'industrie pour la colorimétrie et le montage)* • `iMovie`
 
-### 🌌 Écosystèmes natifs
-* `Discord API` • `Twitch`
+### 🌌 Plateformes
+* `Discord API` • `Roblox Studio` • `Twitch` • `iPadOS`
 
 ---
 
@@ -50,22 +49,28 @@ Moi c'est **secret-gaming01**. Développeur en pleine ascension, je me situe à 
 <table border="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Site Web Multi-Pages Premium</h3>
-      <p>Un site vitrine complet avec une navigation asynchrone, un design 100% responsive et une intégration poussée d'animations CSS (effets de lueur néon, transitions fluides).</p>
-      <p><strong>Stack :</strong> HTML5, CSS3 Avancé, JavaScript</p>
+      <h3>🌐 Site Web Multi-Pages</h3>
+      <p>Un site vitrine moderne et responsive, intégrant des animations CSS complexes, un mode sombre natif et une navigation fluide pensée pour l'expérience utilisateur.</p>
+      <p><strong>Technologies :</strong> HTML, CSS (Avancé), JavaScript</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Bot Discord Multi-Fonctions</h3>
-      <p>Développement d'un bot autonome intégrant un système de modération automatique basé sur des filtres de mots, un module d'économie virtuelle persistant et des commandes utilitaires.</p>
-      <p><strong>Stack :</strong> JavaScript, Node.js, Discord.js</p>
+      <h3>🤖 Bot Discord Complet</h3>
+      <p>Un bot multifonctions conçu pour administrer des serveurs de A à Z : système d'économie complet, modération automatisée (anti-spam, logs) et commandes fun.</p>
+      <p><strong>Technologies :</strong> JavaScript, API Discord</p>
     </td>
   </tr>
   <tr>
-    <td width="100%" colspan="2" valign="top">
+    <td width="50%" valign="top">
       <br/>
-      <h3>🌌 Serveur Discord Haute Couture</h3>
-      <p>Création d'infrastructures de serveurs optimisées. Salons organisés par catégories thématiques, intégration de webhooks pour les notifications automatisées et rôles hiérarchisés au millimètre.</p>
-      <p><strong>Focus :</strong> UI/UX de communauté, Sécurité</p>
+      <h3>🌌 Serveur Discord Avancé</h3>
+      <p>Un espace communautaire complet avec une hiérarchie de rôles réfléchie, un design de salons esthétique (emojis, espacements) et une sécurité renforcée. Optimisé pour l'engagement.</p>
+      <p><strong>Technologies :</strong> Discord, Gestion de permissions, Webhooks</p>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <h3>🎮 Jeu Roblox En Développement</h3>
+      <p>Création d'une expérience interactive sur Roblox. Scripting des mécaniques de jeu, gestion de l'interface utilisateur et conception de l'environnement de base.</p>
+      <p><strong>Technologies :</strong> Roblox Studio, Lua</p>
     </td>
   </tr>
 </table>
@@ -92,9 +97,13 @@ Pour moi, le code doit être aussi beau à regarder qu'à lire. Mon espace de tr
 
 ---
 
-## 📞 Connecter avec Moi
+## 📞 Contact & Liens
 
 <div align="center">
+
+Envie de discuter code, de collaborer sur un projet fou, ou simplement de partager des idées sur l'UI/UX et les bots Discord ? N'hésitez pas à me contacter !
+
+<br/><br/>
 
 <a href="https://discord.com/users/secret_gaming01">
   <img src="https://img.shields.io/badge/Discord-%40secret__gaming01-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
