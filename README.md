@@ -12,9 +12,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Status-Actif_sur_les_projets-00FFCC?style=for-the-badge&logo=github&labelColor=0D1117" alt="Status"/>
-<img src="https://img.shields.io/badge/Focus-Code_Esth%C3%A9tique-8A2BE2?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117" alt="Focus"/>
-
 </div>
 
 ---
@@ -33,14 +30,12 @@ Moi c'est **secret-gaming01**. Développeur en pleine ascension, je me situe à 
 
 ## ⚡ Compétences & Stack Tech
 
-Toutes les icônes utilisent une structure standardisée sans logos externes obsolètes pour garantir un affichage permanent à 100%.
-
 ### 💻 Langages & Core
 * **Web Standard :** `HTML5` • `CSS3` (Stylisation avancée, transitions, keyframes) • `JavaScript` (ES6+)
 * **Backend & Logique :** `C#` *(En cours d'apprentissage intensif)*
 
 ### 🛠️ Environnement & Création
-* **IDE principal :** `VS Code` *(Customisé au pixel près : thème dark premium, polices ligaturées, extensions de productivité)*
+* **IDE principal :** `VS Code` *(Customisé au pixel près : thème dark premium, polices ligaturées)*
 * **Contrôle de version :** `Git` • `GitHub`
 * **Montage Vidéo :** `DaVinci Resolve` *(Le standard de l'industrie pour la colorimétrie et le montage de mes créations)* • `iMovie` *(Montage rapide sur mobile)*
 * **Plateforme mobile :** `iPadOS`
@@ -52,7 +47,7 @@ Toutes les icônes utilisent une structure standardisée sans logos externes obs
 
 ## 🚀 Projets Phares
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🌐 Site Web Multi-Pages Premium</h3>
@@ -79,8 +74,6 @@ Toutes les icônes utilisent une structure standardisée sans logos externes obs
 
 ## 🗺️ Objectifs & Ligne de Mire
 
-Pas de statistiques futiles ici, seulement une progression constante vers la maîtrise technique.
-
 - [x] Construire des interfaces web fluides et modernes
 - [x] Déployer un bot Discord personnalisé et stable
 - [/] **En cours :** Assembler mon portfolio web interactif en y injectant mes connaissances d'UI/UX
@@ -100,8 +93,6 @@ Pour moi, le code doit être aussi beau à regarder qu'à lire. Mon espace de tr
 ---
 
 ## 📞 Connecter avec Moi
-
-Envie d'échanger sur le développement d'un bot, de parler design web ou de suivre mes sessions de code ? Retrouve-moi sur mes plateformes officielles :
 
 <div align="center">
 
