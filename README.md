@@ -28,7 +28,6 @@ Moi c'est **secret-gaming01**. Développeur en pleine ascension, je me situe à 
 * 🤖 **L'Écosystème Discord :** Concevoir des bots complets de modération automatique, des systèmes d'économie virtuelle et des intégrations fluides.
 * 🛡️ **Le Hubbing Communautaire :** Structurer des architectures de serveurs Discord complexes (systèmes de rôles, hiérarchies claires, visuels épurés).
 * 💾 **Le Code Profond :** Apprentissage rigoureux du backend avec **C#** pour propulser mes futurs projets.
-* 🎛️ **L'Électronique Connectée :** Prototypage et bidouillage avec des microcontrôleurs **ESP32**.
 
 ---
 
@@ -39,7 +38,6 @@ Toutes les icônes utilisent une structure standardisée sans logos externes obs
 ### 💻 Langages & Core
 * **Web Standard :** `HTML5` • `CSS3` (Stylisation avancée, transitions, keyframes) • `JavaScript` (ES6+)
 * **Backend & Logique :** `C#` *(En cours d'apprentissage intensif)*
-* **Hardware / IoT :** `C++ / C` *(Pour la programmation ESP32)*
 
 ### 🛠️ Environnement & Création
 * **IDE principal :** `VS Code` *(Customisé au pixel près : thème dark premium, polices ligaturées, extensions de productivité)*
@@ -69,15 +67,10 @@ Toutes les icônes utilisent une structure standardisée sans logos externes obs
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" colspan="2" valign="top">
       <h3>🌌 Serveur Discord Haute Couture</h3>
       <p>Création d'infrastructures de serveurs optimisées. Salons organisés par catégories thématiques, intégration de webhooks pour les notifications automatisées et rôles hiérarchisés au millimètre.</p>
       <p><strong>Focus :</strong> UI/UX de communauté, Sécurité</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔌 Prototypage ESP32</h3>
-      <p>Scripts et micro-programmes destinés à la puce ESP32 pour faire le pont entre le monde physique (capteurs/LEDs) et le code informatique via des requêtes HTTP simples.</p>
-      <p><strong>Focus :</strong> IoT, Électronique, Automatisation</p>
     </td>
   </tr>
 </table>
@@ -112,7 +105,7 @@ Envie d'échanger sur le développement d'un bot, de parler design web ou de sui
 
 <div align="center">
 
-<a href="https://discord.com/users/@secret_gaming01">
+<a href="https://discord.com/users/secret_gaming01">
   <img src="https://img.shields.io/badge/Discord-%40secret__gaming01-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 <a href="https://m.twitch.tv/secret_gaming01">
