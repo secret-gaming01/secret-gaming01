@@ -42,10 +42,11 @@ Toutes les icônes utilisent une structure standardisée sans logos externes obs
 ### 🛠️ Environnement & Création
 * **IDE principal :** `VS Code` *(Customisé au pixel près : thème dark premium, polices ligaturées, extensions de productivité)*
 * **Contrôle de version :** `Git` • `GitHub`
-* **Organisation & Scripting :** `Notion` • `Google Chrome DevTools` • `iMovie` *(Montage & Motion simple)*
+* **Montage Vidéo :** `DaVinci Resolve` *(Le standard de l'industrie pour la colorimétrie et le montage de mes futures créations)* • `iMovie` *(Montage rapide sur mobile)*
+* **Plateforme mobile :** `iPadOS`
 
 ### 🌌 Écosystèmes natifs
-* `Discord API` • `Twitch` • `iPadOS`
+* `Discord API` • `Twitch`
 
 ---
 
@@ -115,6 +116,11 @@ Envie d'échanger sur le développement d'un bot, de parler design web ou de sui
 <br/><br/>
 
 `⚡ Façonner dans l'ombre, impacter dans la lumière.`
+
+<br/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/master/GIFs/Animated%20Logos/CodeOpen.gif" alt="Image de fin code" width="300px"/>
 
 </div>
 
