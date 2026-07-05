@@ -73,23 +73,7 @@ Mon environnement de travail est une extension de ma créativité. Chaque outil 
 - [ ] **Futur :** Développement d'une plateforme web centralisée avec système d'authentification sécurisé (Login / Register) et gestion de session
 
 ---
-
-## 📞 Contact & Liens
-
-Envie de discuter code, de collaborer sur un projet de bot, ou simplement de partager des idées sur le montage vidéo ? N'hésitez pas à me contacter !
-
-<div align="center">
-
 <br/>
-
-<a href="https://discord.com/users/secret_gaming01">
-  <img src="https://img.shields.io/badge/Discord-%40secret__gaming01-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-<a href="https://m.twitch.tv/secret_gaming01">
-  <img src="https://img.shields.io/badge/Twitch-secret__gaming01-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
-</a>
-
-<br/><br/>
 
 `⚡ Façonner dans l'ombre, impacter dans la lumière.`
 
