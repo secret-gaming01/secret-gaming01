@@ -1,15 +1,19 @@
+
 <div align="center">
 
 # ⚡ secret-gaming01
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=200&section=header&text=Welcome%20on%20my%20GitHub&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=40&fontColor=ffffff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=Web+Developer;Discord+Bot+Developer;Always+Learning+🚀" />
+### 💻 Web Developer • 🤖 Discord Bot Developer
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=secret-gaming01&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/secret-gaming01?style=for-the-badge&logo=github"/>
-</p>
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=Building+web+projects;Creating+Discord+bots;Learning+every+day;Improving+step+by+step" />
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=secret-gaming01&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
 
 </div>
 
@@ -17,17 +21,16 @@
 
 # 👋 About Me
 
-Je suis un développeur passionné qui crée des sites web et des bots Discord.
+I am a developer focused on building clean and useful projects.
 
-Je me concentre sur :
-- 🌐 Développement web moderne  
-- 🤖 Bots Discord utiles et performants  
-- 🎨 Interfaces propres et simples  
-- 📚 Apprentissage constant  
+- 🌐 Web development (HTML / CSS / JavaScript)
+- 🤖 Discord bot development
+- 🎨 Simple and clean UI design
+- 📚 Always learning and improving
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,cs,nodejs,git,github,vscode,discord&perline=5"/>
@@ -35,63 +38,68 @@ Je me concentre sur :
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats (STABLE)
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=secret-gaming01&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=secret-gaming01&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secret-gaming01&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secret-gaming01&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" height="170"/>
 
 </p>
 
 ---
 
-# 🔥 Streak
+# 🔥 Streak (FIXED + STABLE)
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=secret-gaming01&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=secret-gaming01&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-# 🏆 Trophies
+# 🏆 Trophies (CLEAN VERSION)
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=secret-gaming01&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=secret-gaming01&theme=darkhub&no-frame=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
 # 🎯 Goals
 
-- 🚀 Devenir meilleur en JavaScript  
-- 🤖 Créer des bots Discord avancés  
-- 🌐 Faire des projets web propres  
-- 📈 Améliorer mon GitHub  
+- 🚀 Improve JavaScript skills  
+- 🤖 Build advanced Discord bots  
+- 🌐 Create clean web apps  
+- 📈 Grow my GitHub profile  
+- 🧠 Learn new technologies  
 
 ---
 
+# 📦 Projects
+
+- 🌐 Web apps
+- 🤖 Discord bots
+- 🧩 Small utilities
+- 🎨 UI experiments
+
+---
+
+# ⚙️ Tools I Use
+
+- VS Code  
+- Git & GitHub  
+- Notion  
+- Discord  
+
+---
+
+# ⭐ Closing
+
 <div align="center">
 
-## ⭐ Thanks for visiting
+### Thanks for visiting 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=120&section=footer" />
+*"Code. Learn. Improve. Repeat."*
 
 </div>
-
-
-<!--
-**secret-gaming01/secret-gaming01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
