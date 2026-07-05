@@ -74,7 +74,7 @@ Mon environnement de travail est une extension de ma créativité. Chaque outil 
 
 ---
 <br/>
-`⚡ Façonner dans l'ombre, impacter dans la lumière.`
+⚡ Façonner dans l'ombre, impacter dans la lumière.
 </div>
 
 <g>
