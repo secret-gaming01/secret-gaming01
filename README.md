@@ -27,33 +27,11 @@ J’aime construire des systèmes propres, rapides et évolutifs.
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=secret-gaming01&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=secret-gaming01&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🔥 Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=secret-gaming01&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -89,16 +67,8 @@ J’aime construire des systèmes propres, rapides et évolutifs.
 
 ---
 
-## ⚡ Philosophie
+## ⚡ Mon proverbe
 
-> “Code propre, esprit clair, résultats puissants.”
-
----
-
-## 🌠 Footer
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0ea5e9&height=120&section=footer" />
+> “Ce que tu façonnes dans le silence devient une force que le monde ressent avant même de comprendre d’où elle
 
 </div>
