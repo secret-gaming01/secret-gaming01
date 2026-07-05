@@ -2,91 +2,103 @@
 
 # ⚡ secret-gaming01
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=220&section=header&text=Bienvenue%20sur%20mon%20profil&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=220&section=header&text=Bienvenue%20sur%20mon%20univers&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=650&lines=Développeur+Web;Créateur+de+bots+Discord;Passionné+par+le+code;Toujours+en+apprentissage+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00E7FF&center=true&vCenter=true&width=700&lines=Développeur+Web+💻;Créateur+de+bots+Discord+🤖;Passionné+par+le+code+⚡;Architecture+propre+et+moderne+🚀;Toujours+en+évolution+🧠" />
 
 </div>
 
 ---
 
-# 👋 À propos de moi
+## 🌌 Profil
 
-Je suis un développeur passionné qui construit des projets web et Discord.
-
-Je me concentre sur :
-- 🌐 Développement web moderne
-- 🤖 Bots Discord performants
-- 🎨 Interfaces propres et minimalistes
-- 📚 Apprentissage constant
+Développeur passionné par la création de projets web modernes et de bots Discord avancés.  
+J’aime construire des systèmes propres, rapides et évolutifs.
 
 ---
 
-# 🛠️ Compétences
+## ⚙️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,cs,git,github,vscode,discord&perline=5" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=secret-gaming01&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=secret-gaming01&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=secret-gaming01&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## 🚀 Ce que je fais
+
+- 🌐 Développement de sites modernes et rapides  
+- 🤖 Bots Discord automatisés et intelligents  
+- 🎨 UI/UX minimalistes et efficaces  
+- ⚙️ Projets personnels expérimentaux  
+- 📈 Amélioration continue du code  
+
+---
+
+## 🎯 Objectifs
+
+- Maîtriser JavaScript avancé  
+- Créer des projets open-source solides  
+- Développer des bots modulaires puissants  
+- Améliorer l’architecture logicielle  
+- Construire des projets reconnus  
+
+---
+
+## 📡 Contact
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,cs,nodejs,git,github,vscode,discord&perline=5"/>
+<img src="https://img.shields.io/badge/Discord-secret--gaming01-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 
 </p>
 
 ---
 
-# 🚀 Ce que je fais
+## ⚡ Philosophie
 
-- 🌐 Sites web modernes et propres  
-- 🤖 Bots Discord automatisés  
-- 🎨 UI simples et efficaces  
-- ⚙️ Projets personnels  
-- 📈 Amélioration continue  
+> “Code propre, esprit clair, résultats puissants.”
 
 ---
 
-# 🎯 Objectifs
-
-- Devenir meilleur en JavaScript  
-- Créer des projets plus avancés  
-- Développer des bots puissants  
-- Améliorer mon style de code  
-- Construire des projets solides  
-
----
-
-# 💻 Environnement
-
-- VS Code  
-- Git & GitHub  
-- Discord  
-- Notion  
-
----
-
-# 💭 Citation personnelle
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-</div>
-
----
-
-# 🧠 Philosophie
-
-> Ce que tu façonnes dans le silence devient une force que le monde ressent avant même de comprendre d’où elle vient.
-
----
-
-# ✨ Message final
+## 🌠 Footer
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0ea5e9&height=120&section=footer" />
-
-### 🚀 Merci d’avoir visité mon profil
-
-*"Code. Construis. Progresse. Répète."*
 
 </div>
