@@ -8,7 +8,7 @@
 
 <br/>
 
-> *"Ce que tu façonnes dans le silence devient une force que le monde ressent avant même de comprendre d’où elle vient."*
+> 🌌 **« Ce que tu façonnes dans le silence devient une force que le monde ressent avant même de comprendre d’où elle vient. »**
 
 <br/>
 
@@ -42,7 +42,7 @@ Toutes les icônes utilisent une structure standardisée sans logos externes obs
 ### 🛠️ Environnement & Création
 * **IDE principal :** `VS Code` *(Customisé au pixel près : thème dark premium, polices ligaturées, extensions de productivité)*
 * **Contrôle de version :** `Git` • `GitHub`
-* **Montage Vidéo :** `DaVinci Resolve` *(Le standard de l'industrie pour la colorimétrie et le montage de mes futures créations)* • `iMovie` *(Montage rapide sur mobile)*
+* **Montage Vidéo :** `DaVinci Resolve` *(Le standard de l'industrie pour la colorimétrie et le montage de mes créations)* • `iMovie` *(Montage rapide sur mobile)*
 * **Plateforme mobile :** `iPadOS`
 
 ### 🌌 Écosystèmes natifs
@@ -58,17 +58,16 @@ Toutes les icônes utilisent une structure standardisée sans logos externes obs
       <h3>🌐 Site Web Multi-Pages Premium</h3>
       <p>Un site vitrine complet avec une navigation asynchrone, un design 100% responsive et une intégration poussée d'animations CSS (effets de lueur néon, transitions fluides).</p>
       <p><strong>Stack :</strong> HTML5, CSS3 Avancé, JavaScript</p>
-      <hr size="1" color="#222"/>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 Bot Discord Multi-Fonctions</h3>
       <p>Développement d'un bot autonome intégrant un système de modération automatique basé sur des filtres de mots, un module d'économie virtuelle persistant et des commandes utilitaires.</p>
       <p><strong>Stack :</strong> JavaScript, Node.js, Discord.js</p>
-      <hr size="1" color="#222"/>
     </td>
   </tr>
   <tr>
     <td width="100%" colspan="2" valign="top">
+      <br/>
       <h3>🌌 Serveur Discord Haute Couture</h3>
       <p>Création d'infrastructures de serveurs optimisées. Salons organisés par catégories thématiques, intégration de webhooks pour les notifications automatisées et rôles hiérarchisés au millimètre.</p>
       <p><strong>Focus :</strong> UI/UX de communauté, Sécurité</p>
@@ -120,7 +119,7 @@ Envie d'échanger sur le développement d'un bot, de parler design web ou de sui
 <br/>
 <br/>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/master/GIFs/Animated%20Logos/CodeOpen.gif" alt="Image de fin code" width="300px"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745cc-7d22-439b-9d70-de2d2992d19f.gif" alt="Synthwave Horizon Code" width="400px" style="border-radius: 8px;"/>
 
 </div>
 
