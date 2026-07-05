@@ -67,11 +67,10 @@ Mon environnement de travail est une extension de ma créativité. Chaque outil 
 ## 🎯 Objectifs
 
 - [x] Maîtriser le responsive design et les animations CSS
-- [x] Déployer des systèmes de bots Discord autonomes
-- [/] **En cours :** Développement d'un portfolio web immersif avec DaVinci Resolve intégré
-- [/] **En cours :** Approfondissement des structures de données en **C#**
-- [ ] **Futur :** Création d'une plateforme web centralisée pour la gestion de bots
-- [ ] **Futur :** Automatisation complète de flux de production vidéo via script
+- [/] **En cours :** Développement et déploiement d'un bot Discord autonome multi-fonctions
+- [/] **En cours :** Conception de nouvelles infrastructures et architectures de serveurs Discord communautaires
+- [ ] **Futur :** Conception d'un site web portfolio immersif et hautement personnalisé
+- [ ] **Futur :** Développement d'une plateforme web centralisée avec système d'authentification sécurisé (Login / Register) et gestion de session
 
 ---
 
