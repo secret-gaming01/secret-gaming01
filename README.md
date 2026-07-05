@@ -8,7 +8,7 @@
 
 <br/>
 
-🌌 **« Ce que tu façonnes dans le silence devient une force que le monde ressent avant même de comprendre d’où elle vient. »**
+> 🌌 **« Ce que tu façonnes dans le silence devient une force que le monde ressent avant même de comprendre d’où elle vient. »**
 
 <br/>
 
@@ -20,90 +20,68 @@
 
 Moi c'est **secret-gaming01**. Développeur en pleine ascension, je me situe à la frontière entre le niveau débutant et intermédiaire. Mon moteur ? La curiosité et l'amour des interfaces sombres, futuristes et impeccablement stylisées. Je ne cherche pas à faire simple, je cherche à faire **marquant**.
 
-**Mes axes majeurs d'exploration :**
-* 🌐 **L'Architecture Web :** Découper le HTML, sculpter le CSS et dynamiser le tout avec JavaScript.
-* 🤖 **L'Écosystème Discord :** Concevoir des bots complets de modération automatique, des systèmes d'économie virtuelle et des intégrations fluides.
-* 🛡️ **Le Hubbing Communautaire :** Structurer des architectures de serveurs Discord complexes (systèmes de rôles, hiérarchies claires, visuels épurés).
-* 💾 **Le Code Profond :** Apprentissage rigoureux du backend avec **C#** pour propulser mes futurs projets.
+**Mes domaines d'expertise actuels :**
+* 🌐 **Architecture Web :** Création de structures HTML propres et stylisation CSS avancée.
+* 🤖 **Ingénierie Discord :** Conception de bots complets (modération, économie) et architecture de serveurs premium.
+* 💾 **Logique Backend :** Apprentissage approfondi du **C#** pour des applications plus puissantes.
+* 🎬 **Visual Arts :** Montage vidéo de haute précision pour un rendu professionnel.
 
 ---
 
 ## ⚡ Compétences & Stack Tech
 
 ### 💻 Langages
-* **Web Standard :** `HTML5` • `CSS3` (Stylisation avancée, transitions, keyframes) • `JavaScript` (ES6+)
-* **Backend & Logique :** `C#` • `LUA`
+* **Web Standard :** `HTML5` • `CSS3` (Effets néon, animations complexes) • `JavaScript`
+* **Logic & Scripts :** `C#` • `Lua`
 
 ### 🛠️ Outils & IDE
-* **IDE principal :** `VS Code` *(Thème dark premium, polices ligaturées)*
-* **Contrôle de version :** `Git` • `GitHub`
-* **Montage Vidéo :** `DaVinci Resolve` *(Le standard de l'industrie pour la colorimétrie et le montage)* • `iMovie`
+* **Code :** `VS Code` *(Configuré pour l'esthétique et la performance)*
+* **Version :** `Git` • `GitHub`
+* **Vidéo :** `DaVinci Resolve` • `iMovie`
 
 ### 🌌 Plateformes
-* `Discord API` • `Roblox Studio` • `Twitch` • `iPadOS`
+* `Discord API` • `Twitch` • `iPadOS`
 
 ---
 
-## 🚀 Projets Phares
+## 🎬 Création & Post-Production
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Site Web Multi-Pages</h3>
-      <p>Un site vitrine moderne et responsive, intégrant des animations CSS complexes, un mode sombre natif et une navigation fluide pensée pour l'expérience utilisateur.</p>
-      <p><strong>Technologies :</strong> HTML, CSS (Avancé), JavaScript</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Bot Discord Complet</h3>
-      <p>Un bot multifonctions conçu pour administrer des serveurs de A à Z : système d'économie complet, modération automatisée (anti-spam, logs) et commandes fun.</p>
-      <p><strong>Technologies :</strong> JavaScript, API Discord</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <br/>
-      <h3>🌌 Serveur Discord Avancé</h3>
-      <p>Un espace communautaire complet avec une hiérarchie de rôles réfléchie, un design de salons esthétique (emojis, espacements) et une sécurité renforcée. Optimisé pour l'engagement.</p>
-      <p><strong>Technologies :</strong> Discord, Gestion de permissions, Webhooks</p>
-    </td>
-    <td width="50%" valign="top">
-      <br/>
-      <h3>🎮 Jeu Roblox En Développement</h3>
-      <p>Création d'une expérience interactive sur Roblox. Scripting des mécaniques de jeu, gestion de l'interface utilisateur et conception de l'environnement de base.</p>
-      <p><strong>Technologies :</strong> Roblox Studio, Lua</p>
-    </td>
-  </tr>
-</table>
+Au-delà du code, je façonne l'image. J'utilise **DaVinci Resolve** pour transformer des rushs bruts en contenus dynamiques et esthétiques. Mon approche de la vidéo suit la même règle que mon code : **la précision avant tout**.
+
+* **Colorimétrie :** Travail sur les ambiances sombres et contrastées.
+* **Dynamisme :** Montage rythmé pour capter l'attention.
+* **Qualité :** Exportation optimisée pour un rendu "Premium".
 
 ---
 
-## 🗺️ Objectifs & Ligne de Mire
+## 🛠️ Mon Écosystème Digital
 
-- [x] Construire des interfaces web fluides et modernes
-- [x] Déployer un bot Discord personnalisé et stable
-- [/] **En cours :** Assembler mon portfolio web interactif en y injectant mes connaissances d'UI/UX
-- [/] **En cours :** Consolider la logique algorithmique via le langage **C#**
-- [ ] **Futur :** Concevoir un Bot Discord "All-in-One" relié à un Dashboard Web complet
-- [ ] **Futur :** Lancer et automatiser un serveur Discord communautaire monétisé
+Mon environnement de travail est une extension de ma créativité. Chaque outil est choisi pour son esthétique et sa fluidité.
+
+* **VS Code Studio :** Mon interface est totalement personnalisée avec un thème sombre à haut contraste et des accents néon.
+* **Mobilité & iPadOS :** J'utilise la puissance de l'iPad pour prototyper mes idées et gérer mes projets en déplacement.
+* **GitHub Workflow :** Une organisation rigoureuse de mes dépôts pour une progression lisible et structurée.
 
 ---
 
-## 🎨 Philosophie Visuelle & Workstation
+## 🎯 Objectifs
 
-Pour moi, le code doit être aussi beau à regarder qu'à lire. Mon espace de travail numérique est rigoureusement configuré pour maximiser la concentration et le confort esthétique :
-
-* **VS Code Studio :** Un thème sombre ultra-contrasté couplé à des accents vert néon (`#00FFCC`) et violet profond. L'affichage épuré supprime les distractions inutiles pour se focaliser sur la propreté des lignes de code.
-* **Minimalisme Tech :** Une préférence marquée pour les designs géométriques, les effets de flou de surface (*glassmorphism*) et les palettes de couleurs sombres et luxueuses.
+- [x] Maîtriser le responsive design et les animations CSS
+- [x] Déployer des systèmes de bots Discord autonomes
+- [/] **En cours :** Développement d'un portfolio web immersif avec DaVinci Resolve intégré
+- [/] **En cours :** Approfondissement des structures de données en **C#**
+- [ ] **Futur :** Création d'une plateforme web centralisée pour la gestion de bots
+- [ ] **Futur :** Automatisation complète de flux de production vidéo via script
 
 ---
 
 ## 📞 Contact & Liens
 
+Envie de discuter code, de collaborer sur un projet de bot, ou simplement de partager des idées sur le montage vidéo ? N'hésitez pas à me contacter !
+
 <div align="center">
 
-Envie de discuter code, de collaborer sur un projet fou, ou simplement de partager des idées sur l'UI/UX et les bots Discord ? N'hésitez pas à me contacter !
-
-<br/><br/>
+<br/>
 
 <a href="https://discord.com/users/secret_gaming01">
   <img src="https://img.shields.io/badge/Discord-%40secret__gaming01-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
