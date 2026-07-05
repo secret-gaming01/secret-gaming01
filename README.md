@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" alt="Neon Banner" style="border-radius: 15px;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFCC&height=250&section=header&text=secret-gaming01&fontSize=70&fontColor=0D1117&animation=twinkling" width="100%" alt="Cyberpunk Banner"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=Salut,+je+suis+secret-gaming01+!+%F0%9F%91%8B;D%C3%A9veloppeur+Full-Stack+en+devenir+%E2%9A%A1;Cr%C3%A9ateur+d'exp%C3%A9riences+web+%26+Discord+%F0%9F%8E%AE;Passionn%C3%A9+par+l'UI%2FUX+Neon+%26+Tech+%F0%9F%8C%8C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=800&color=00FFCC&center=true&vCenter=true&width=800&lines=D%C3%A9veloppeur+Full-Stack+en+progression+%E2%9A%A1;Artisan+du+code+et+passionn%C3%A9+d'UI%2FUX+%F0%9F%8C%8A;Cr%C3%A9ateur+de+Bots+Discord+sur-mesure+%F0%9F%A5%BE;Bienvenue+dans+mon+univers+Tech+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <br/>
 
@@ -12,13 +12,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=secret-gaming01&label=Vues+du+profil&color=00FFCC&style=for-the-badge&logo=github" alt="Profile Views"/>
-<a href="https://github.com/secret-gaming01?tab=followers"><img src="https://img.shields.io/github/followers/secret-gaming01?style=for-the-badge&color=8A2BE2&logo=github&label=Abonnés" alt="Followers"/></a>
-
-<br/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien" width="35" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Personal%20Computer.png" alt="PC" width="35" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" />
+<img src="https://img.shields.io/badge/Status-Actif_sur_les_projets-00FFCC?style=for-the-badge&logo=github&labelColor=0D1117" alt="Status"/>
+<img src="https://img.shields.io/badge/Focus-Code_Esth%C3%A9tique-8A2BE2?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117" alt="Focus"/>
 
 </div>
 
@@ -26,48 +21,33 @@
 
 ## 🔮 À propos de moi
 
-Bienvenue dans mon univers ! Je suis un développeur passionné, actuellement à l'étape intermédiaire, mais avec une motivation sans limites. Mon but ? Créer des interfaces propres, animées et au look premium. J'aime tout ce qui touche à l'esthétique tech, sombre et néon.
+Moi c'est **secret-gaming01**. Développeur en pleine ascension, je me situe à la frontière entre le niveau débutant et intermédiaire. Mon moteur ? La curiosité et l'amour des interfaces sombres, futuristes et impeccablement stylisées. Je ne cherche pas à faire simple, je cherche à faire **marquant**.
 
-**Ce qui me fait vibrer :**
-* 🌐 **Le Développement Web :** Façonner des pages interactives et fluides.
-* 🤖 **Les Bots Discord :** Automatiser, modérer et créer des économies virtuelles.
-* 🎨 **Le Design & l'UI/UX :** Pousser le CSS dans ses retranchements pour des rendus visuels époustouflants.
-* 🎮 **L'univers Roblox :** Concevoir des jeux et des mécaniques avec Lua.
-* ⚙️ **L'Électronique :** Explorer les possibilités des puces ESP32.
-
-**Actuellement...**
-* 🌱 **J'apprends :** Le backend avec **C#** pour structurer des projets plus robustes, et le perfectionnement de mes stacks web.
-* 🚀 **Je veux créer :** Des serveurs Discord ultimes, un portfolio personnel animé, et des bots toujours plus intelligents.
+**Mes axes majeurs d'exploration :**
+* 🌐 **L'Architecture Web :** Découper le HTML, sculpter le CSS et dynamiser le tout avec JavaScript.
+* 🤖 **L'Écosystème Discord :** Concevoir des bots complets de modération automatique, des systèmes d'économie virtuelle et des intégrations fluides.
+* 🛡️ **Le Hubbing Communautaire :** Structurer des architectures de serveurs Discord complexes (systèmes de rôles, hiérarchies claires, visuels épurés).
+* 💾 **Le Code Profond :** Apprentissage rigoureux du backend avec **C#** pour propulser mes futurs projets.
+* 🎛️ **L'Électronique Connectée :** Prototypage et bidouillage avec des microcontrôleurs **ESP32**.
 
 ---
 
 ## ⚡ Compétences & Stack Tech
 
-<div align="center">
+Toutes les icônes utilisent une structure standardisée sans logos externes obsolètes pour garantir un affichage permanent à 100%.
 
-### 💻 Langages
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=239120" alt="C#" />
-<img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=2C2D72" alt="Lua" />
+### 💻 Langages & Core
+* **Web Standard :** `HTML5` • `CSS3` (Stylisation avancée, transitions, keyframes) • `JavaScript` (ES6+)
+* **Backend & Logique :** `C#` *(En cours d'apprentissage intensif)*
+* **Hardware / IoT :** `C++ / C` *(Pour la programmation ESP32)*
 
-### 🛠️ Outils & IDE
-<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" alt="VS Code" />
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-<img src="https://img.shields.io/badge/iMovie-000000?style=for-the-badge&logo=apple&logoColor=999999" alt="iMovie" />
-<img src="https://img.shields.io/badge/Chrome-000000?style=for-the-badge&logo=google%20chrome&logoColor=4285F4" alt="Chrome" />
-<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=E7352C" alt="ESP32" />
+### 🛠️ Environnement & Création
+* **IDE principal :** `VS Code` *(Customisé au pixel près : thème dark premium, polices ligaturées, extensions de productivité)*
+* **Contrôle de version :** `Git` • `GitHub`
+* **Organisation & Scripting :** `Notion` • `Google Chrome DevTools` • `iMovie` *(Montage & Motion simple)*
 
-### 🌌 Plateformes
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
-<img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" />
-<img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=9146FF" alt="Twitch" />
-<img src="https://img.shields.io/badge/iPad-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iPad" />
-
-</div>
+### 🌌 Écosystèmes natifs
+* `Discord API` • `Twitch` • `iPadOS`
 
 ---
 
@@ -75,86 +55,76 @@ Bienvenue dans mon univers ! Je suis un développeur passionné, actuellement à
 
 <table border="0">
   <tr>
-    <td width="50%">
-      <h3>🌌 Serveur Discord Avancé</h3>
-      <p>Un espace communautaire complet avec une hiérarchie de rôles réfléchie, un design de salons esthétique (emojis, espacements) et une sécurité renforcée. Optimisé pour l'engagement.</p>
-      <p><strong>Technologies :</strong> Discord, Gestion de permissions, Webhooks</p>
-      <a href="#"><img src="https://img.shields.io/badge/Voir_le_projet-00FFCC?style=flat-square&logo=github&logoColor=black"/></a>
+    <td width="50%" valign="top">
+      <h3>🌐 Site Web Multi-Pages Premium</h3>
+      <p>Un site vitrine complet avec une navigation asynchrone, un design 100% responsive et une intégration poussée d'animations CSS (effets de lueur néon, transitions fluides).</p>
+      <p><strong>Stack :</strong> HTML5, CSS3 Avancé, JavaScript</p>
+      <hr size="1" color="#222"/>
     </td>
-    <td width="50%">
-      <h3>🌐 Site Web Multi-Pages</h3>
-      <p>Un site vitrine moderne et responsive, intégrant des animations CSS complexes, un mode sombre natif et une navigation fluide pensée pour l'expérience utilisateur.</p>
-      <p><strong>Technologies :</strong> HTML, CSS (Avancé), JavaScript</p>
-      <a href="#"><img src="https://img.shields.io/badge/Voir_le_projet-00FFCC?style=flat-square&logo=github&logoColor=black"/></a>
+    <td width="50%" valign="top">
+      <h3>🤖 Bot Discord Multi-Fonctions</h3>
+      <p>Développement d'un bot autonome intégrant un système de modération automatique basé sur des filtres de mots, un module d'économie virtuelle persistant et des commandes utilitaires.</p>
+      <p><strong>Stack :</strong> JavaScript, Node.js, Discord.js</p>
+      <hr size="1" color="#222"/>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3>🤖 Bot Discord Complet</h3>
-      <p>Un bot multifonctions conçu pour administrer des serveurs de A à Z : système d'économie complet, modération automatisée (anti-spam, logs) et commandes fun.</p>
-      <p><strong>Technologies :</strong> JavaScript, API Discord</p>
-      <a href="#"><img src="https://img.shields.io/badge/Voir_le_projet-00FFCC?style=flat-square&logo=github&logoColor=black"/></a>
+    <td width="50%" valign="top">
+      <h3>🌌 Serveur Discord Haute Couture</h3>
+      <p>Création d'infrastructures de serveurs optimisées. Salons organisés par catégories thématiques, intégration de webhooks pour les notifications automatisées et rôles hiérarchisés au millimètre.</p>
+      <p><strong>Focus :</strong> UI/UX de communauté, Sécurité</p>
     </td>
-    <td width="50%">
-      <h3>🎮 Jeu Roblox En Développement</h3>
-      <p>Création d'une expérience interactive sur Roblox. Scripting des mécaniques de jeu, gestion de l'interface utilisateur et conception de l'environnement de base.</p>
-      <p><strong>Technologies :</strong> Roblox Studio, Lua</p>
-      <a href="#"><img src="https://img.shields.io/badge/Voir_le_projet-00FFCC?style=flat-square&logo=github&logoColor=black"/></a>
+    <td width="50%" valign="top">
+      <h3>🔌 Prototypage ESP32</h3>
+      <p>Scripts et micro-programmes destinés à la puce ESP32 pour faire le pont entre le monde physique (capteurs/LEDs) et le code informatique via des requêtes HTTP simples.</p>
+      <p><strong>Focus :</strong> IoT, Électronique, Automatisation</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🗺️ Roadmap & Objectifs
+## 🗺️ Objectifs & Ligne de Mire
 
-Ici, vous pouvez suivre mon évolution. La route est encore longue, mais chaque étape compte !
+Pas de statistiques futiles ici, seulement une progression constante vers la maîtrise technique.
 
-- [x] Maîtriser les bases du développement web (HTML/CSS/JS)
-- [x] Concevoir un premier bot Discord fonctionnel
-- [ ] 🚧 **Objectif en cours :** Finaliser et publier mon portfolio animé interactif
-- [ ] 🚧 **Objectif en cours :** Faire avancer le développement de mon jeu Roblox (mécaniques de base)
-- [ ] 🎯 **Objectif futur :** Créer un serveur Discord monétisé avec une économie viable
-- [ ] 🎯 **Objectif futur :** Coder un Bot Discord "All-in-One" avec Dashboard Web
-- [ ] 🎯 **Objectif futur :** Maîtriser le backend avec C#
-
----
-
-## 🎨 Fun & Personnalisation
-
-Le code, c'est bien, mais avec style, c'est mieux ! 
-Je passe un temps considérable à peaufiner mon environnement de travail pour qu'il soit à mon image :
-
-* **VS Code :** Configuré aux petits oignons. Thème *Dark/Neon*, icônes personnalisées, typographie ligaturée (Fira Code) et extensions pour coder dans un environnement qui ressemble au cockpit d'un vaisseau spatial. 🛸
-* **Aesthetic :** J'adore l'esthétique cyberpunk, les lumières néon sur fond sombre, et tout ce qui donne un aspect "luxe tech" aux interfaces. ✨
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magic%20Wand.png" alt="Magic" width="40" />
-</div>
+- [x] Construire des interfaces web fluides et modernes
+- [x] Déployer un bot Discord personnalisé et stable
+- [/] **En cours :** Assembler mon portfolio web interactif en y injectant mes connaissances d'UI/UX
+- [/] **En cours :** Consolider la logique algorithmique via le langage **C#**
+- [ ] **Futur :** Concevoir un Bot Discord "All-in-One" relié à un Dashboard Web complet
+- [ ] **Futur :** Lancer et automatiser un serveur Discord communautaire monétisé
 
 ---
 
-## 📞 Contact & Liens
+## 🎨 Philosophie Visuelle & Workstation
 
-Envie de discuter code, de collaborer sur un projet fou, ou simplement de partager des idées sur l'UI/UX et les bots Discord ? N'hésitez pas à me contacter !
+Pour moi, le code doit être aussi beau à regarder qu'à lire. Mon espace de travail numérique est rigoureusement configuré pour maximiser la concentration et le confort esthétique :
+
+* **VS Code Studio :** Un thème sombre ultra-contrasté couplé à des accents vert néon (`#00FFCC`) et violet profond. L'affichage épuré supprime les distractions inutiles pour se focaliser sur la propreté des lignes de code.
+* **Minimalisme Tech :** Une préférence marquée pour les designs géométriques, les effets de flou de surface (*glassmorphism*) et les palettes de couleurs sombres et luxueuses.
+
+---
+
+## 📞 Connecter avec Moi
+
+Envie d'échanger sur le développement d'un bot, de parler design web ou de suivre mes sessions de code ? Retrouve-moi sur mes plateformes officielles :
 
 <div align="center">
 
-<a href="https://discord.com/users/TON_ID_DISCORD">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+<a href="https://discord.com/users/@secret_gaming01">
+  <img src="https://img.shields.io/badge/Discord-%40secret__gaming01-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
-<a href="https://twitch.tv/TON_TWITCH">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
-</a>
-<a href="https://ton-portfolio-lien.com">
-  <img src="https://img.shields.io/badge/Mon_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00FFCC" alt="Portfolio"/>
+<a href="https://m.twitch.tv/secret_gaming01">
+  <img src="https://img.shields.io/badge/Twitch-secret__gaming01-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
 </a>
 
 <br/><br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Toujours+ouvert+aux+nouvelles+collaborations+!" alt="Collaboration"/>
+
+`⚡ Façonner dans l'ombre, impacter dans la lumière.`
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%" alt="ligne neon"/>
-</p>
+<g>
+  <hr color="#00FFCC" size="2px" style="border-radius: 5px;" />
+</g>
