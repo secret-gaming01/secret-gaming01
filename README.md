@@ -58,7 +58,7 @@ Au-delà du code, je façonne l'image. J'utilise **DaVinci Resolve** pour transf
 
 Mon environnement de travail est une extension de ma créativité. Chaque outil est choisi pour son esthétique et sa fluidité.
 
-* **VS Code Studio :** Mon interface est totalement personnalisée avec un thème sombre à haut contraste et des accents néon.
+* **VS Code :** Mon interface est totalement personnalisée avec un thème sombre à haut contraste et des accents néon.
 * **Mobilité & iPadOS :** J'utilise la puissance de l'iPad pour prototyper mes idées et gérer mes projets en déplacement.
 * **GitHub Workflow :** Une organisation rigoureuse de mes dépôts pour une progression lisible et structurée.
 
