@@ -37,7 +37,7 @@ Moi c'est **secret-gaming01**. Développeur en pleine ascension, je me situe à 
 ### 🛠️ Outils & IDE
 * **Code :** `VS Code` *(Configuré pour l'esthétique et la performance)*
 * **Version :** `Git` • `GitHub`
-* **Vidéo :** `DaVinci Resolve` • `iMovie`
+* **Vidéo :** `DaVinci Resolve`
 
 ### 🌌 Plateformes
 * `Discord API` • `Twitch` • `iPadOS`
