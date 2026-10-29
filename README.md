@@ -64,16 +64,10 @@ Bonjour, je suis **secret-gaming01**. Développeur passionné, je conçois des s
 ## 📈 Métriques d'Activité
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=secret-gaming01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Statistiques GitHub" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secret-gaming01&theme=tokyonight&hide_border=true&layout=compact" alt="Langages les plus utilisés" />
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=secret-gaming01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Statistiques GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=secret-gaming01&theme=tokyonight&hide_border=true&layout=compact" alt="Langages les plus utilisés" />
+  </p>
 </div>
 
 ---
